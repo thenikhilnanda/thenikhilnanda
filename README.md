@@ -1,4 +1,4 @@
-[![MasterHead](https://www.skwigly.co.uk/wp-content/uploads/2017/05/Bruce_Lee_Skwigly.gif)](https://thenikhilnanda.io)
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif)](https://thenikhilnanda.io)
 
 <h1 align="center">Hi 👋, I'm Nikhil Shewale</h1>
 <h3 align="center">a Passionate Internet Enthusiast</h3>
