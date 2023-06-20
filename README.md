@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Shewale</h1>
 <h3 align="center">a Passionate Internet Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenikhilnanda&label=Profile%20views&color=0e75b6&style=flat" alt="thenikhilnanda" /> </p>
 
