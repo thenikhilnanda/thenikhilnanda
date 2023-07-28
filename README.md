@@ -22,6 +22,12 @@ a Passionate Internet Enthusiast skilled in Digital Marketing, Web Development, 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
+  <a href="https://www.semrush.com/" target="_blank" rel="noreferrer">
+    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5489719400006400057c165c/0x0.png" alt="semrush" width="40" height="40"/>
+   </a>
+  <a href="https://adsense.google.com/start/" target="_blank" rel="noreferrer">
+    <img src="https://logowik.com/content/uploads/images/google-ads2666.jpg" alt="adsense" width="40" height="40"/>
+   </a>
   <b>|</b>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -35,14 +41,8 @@ a Passionate Internet Enthusiast skilled in Digital Marketing, Web Development, 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <b>|</b>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -51,11 +51,23 @@ a Passionate Internet Enthusiast skilled in Digital Marketing, Web Development, 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-     <br>
-     <br>
-     ***
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
+     <img src="https://logos-download.com/wp-content/uploads/2019/07/Canva_Logo.png" alt="canva" width="40" height="40"/>
+   </a>
+   <b>|</b>
+  <a href="https://bard.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://magoven.io/wp-content/uploads/2023/05/Google-Bard-Logo.png" alt="bard" width="40" height="40"/>
+  </a>
+  <a href="https://www.midjourney.com" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="midjourney" width="40" height="40"/>
+   </a>
+   <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/800px-ChatGPT_logo.svg.png" alt="chatGPT" width="40" height="40"/>
+   </a>
 </p>
-
+***
+<br>
+<br>
 </div>
 
 <div align="center">
