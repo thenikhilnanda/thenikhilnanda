@@ -7,11 +7,8 @@
 <p align="left"> <a href="https://twitter.com/thenikhilnanda" target="blank"><img src="https://img.shields.io/twitter/follow/thenikhilnanda?logo=twitter&style=for-the-badge" alt="thenikhilnanda" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Bootstrap, Node.JS, and Prompt Engineering**
-
-- 💬 Ask me about **Web Technologies, Digital Marketing, Writing, & Photography**
-
+- 💬 Ask me about **Digital Marketing, Web Technologies, Writing, & Photography**
 - 📫 Ping me on **work.nikhilshewale@gmail.com**
-
 - ⚡ **特権的**
 
 
