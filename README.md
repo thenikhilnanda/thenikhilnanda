@@ -12,7 +12,7 @@
 
 - 📫 Ping me on **work.nikhilshewale@gmail.com**
 
-- ⚡ **內向者**
+- ⚡ **特権的**
 
 
 <h3 align="left">Languages and Tools:</h3>
