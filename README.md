@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>
-a Passionate Internet Enthusiast skilled in Digital Marketing, Web Development, Writing, Prompt Engineering, & Freelance Photography, Who is driven by data, excelling in Project Management & Visual Content Creation for online success.
+a Passionate Internet Enthusiast skilled in Digital Marketing, Web Development, Writing, Prompt Engineering, & Freelance Photography, Who is driven by data, excelling in Project Management & Visual Content Creation for online success
 </p>
 
 <hr>
